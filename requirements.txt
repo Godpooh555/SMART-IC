@@ -1,5 +1,5 @@
-tensorflow-cpu==2.12.0
-gradio==4.41.0
+gradio
+tensorflow-cpu
 Pillow
 numpy
 requests
